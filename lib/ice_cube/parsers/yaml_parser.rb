@@ -7,7 +7,7 @@ module IceCube
       Date,
       Symbol,
       Time,
-      IceCube::YearlyRule
+      IceCube::YearlyRule,
       IceCube::Validations::YearlyInterval::Validation,
     ].freeze
 
